@@ -6,7 +6,8 @@ A simple implementation of microservice architecture implementing :
 - monitoring
 
 # Technologies :
-- using spring boot
+- Java
+- spring boot
 - netflix eureka server
 - netflix eureka client
 - spring cloud gateway
